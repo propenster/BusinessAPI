@@ -1,0 +1,12 @@
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\bin\Debug\netstandard2.0\BusinessAPI.Domain.dll
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.csprojAssemblyReference.cache
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.AssemblyInfo.cs
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\bin\Debug\netstandard2.0\BusinessAPI.DataAccess.deps.json
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\bin\Debug\netstandard2.0\BusinessAPI.DataAccess.dll
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\bin\Debug\netstandard2.0\BusinessAPI.DataAccess.pdb
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\bin\Debug\netstandard2.0\BusinessAPI.Domain.pdb
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.csproj.CopyComplete
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.dll
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.DataAccess\obj\Debug\netstandard2.0\BusinessAPI.DataAccess.pdb

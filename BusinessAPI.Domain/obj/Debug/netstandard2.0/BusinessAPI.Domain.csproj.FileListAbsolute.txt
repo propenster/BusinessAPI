@@ -1,0 +1,9 @@
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\bin\Debug\netstandard2.0\BusinessAPI.Domain.deps.json
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\bin\Debug\netstandard2.0\BusinessAPI.Domain.dll
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\bin\Debug\netstandard2.0\BusinessAPI.Domain.pdb
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\obj\Debug\netstandard2.0\BusinessAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\obj\Debug\netstandard2.0\BusinessAPI.Domain.AssemblyInfo.cs
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\obj\Debug\netstandard2.0\BusinessAPI.Domain.dll
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\obj\Debug\netstandard2.0\BusinessAPI.Domain.pdb
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\obj\Debug\netstandard2.0\BusinessAPI.Domain.csprojAssemblyReference.cache
+C:\Users\GD0024\source\repos\BusinessAPI\BusinessAPI.Domain\obj\Debug\netstandard2.0\BusinessAPI.Domain.csproj.CoreCompileInputs.cache
